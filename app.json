@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "project_13",
+    "slug": "project_13",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "tic.tac.toe"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4f46c36d-09c7-44f3-9304-4fcbc835b540"
+      }
+    }
+  }
+}
